@@ -1,0 +1,13 @@
+body {
+  background: #FF0000;
+}
+
+button {
+  position: relative;
+  color: #00000;
+  background: none;
+  font-family: cursive; 
+  border: none;
+  font-size: 30px;
+  padding: 10px 20px;
+}
